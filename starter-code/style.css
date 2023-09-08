@@ -1,0 +1,30 @@
+.hero {
+  background-color: pink;
+  height: 400px;
+}
+
+.services {
+  background-color: orange;
+}
+.navbar-brand {
+  padding: 0 30px;
+  font-size: 2em;
+  font-weight: 800;
+}
+.collapse {
+  justify-content: right;
+}
+.navbar-nav {
+  /* margin: 0 50%; */
+  /* width: auto; */
+  text-align: center;
+}
+.mobilenav-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 90%;
+  padding-right: 10%;
+
+  /* flex-direction: column; */
+  align-items: center;
+}
